@@ -1,0 +1,14 @@
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\bin\Debug\demo11.exe.config
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\bin\Debug\demo11.exe
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\bin\Debug\demo11.pdb
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\bin\Debug\SharpGL.dll
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\bin\Debug\SharpGL.WinForms.dll
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\obj\Debug\demo11.csprojAssemblyReference.cache
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\obj\Debug\demo11.Properties.Resources.resources
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\obj\Debug\demo11.csproj.GenerateResource.cache
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\obj\Debug\demo11.csproj.CoreCompileInputs.cache
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\obj\Debug\demo11.csproj.CopyComplete
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\obj\Debug\demo11.exe
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\obj\Debug\demo11.pdb
+C:\Users\suzhefeng\Source\Repos\demo11\demo11\obj\Debug\demo11.Form1.resources
