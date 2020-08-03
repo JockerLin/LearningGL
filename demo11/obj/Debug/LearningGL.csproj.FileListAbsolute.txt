@@ -1,0 +1,11 @@
+G:\blazarlin\LearningGL\demo11\bin\Debug\demo11.exe.config
+G:\blazarlin\LearningGL\demo11\bin\Debug\demo11.exe
+G:\blazarlin\LearningGL\demo11\bin\Debug\demo11.pdb
+G:\blazarlin\LearningGL\demo11\obj\Debug\LearningGL.csprojAssemblyReference.cache
+G:\blazarlin\LearningGL\demo11\obj\Debug\demo11.Form1.resources
+G:\blazarlin\LearningGL\demo11\obj\Debug\demo11.Properties.Resources.resources
+G:\blazarlin\LearningGL\demo11\obj\Debug\LearningGL.csproj.GenerateResource.cache
+G:\blazarlin\LearningGL\demo11\obj\Debug\LearningGL.csproj.CoreCompileInputs.cache
+G:\blazarlin\LearningGL\demo11\obj\Debug\LearningGL.csproj.CopyComplete
+G:\blazarlin\LearningGL\demo11\obj\Debug\demo11.exe
+G:\blazarlin\LearningGL\demo11\obj\Debug\demo11.pdb
