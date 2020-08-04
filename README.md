@@ -4,7 +4,7 @@
 
 1. 前言
 
-          界面框架使用c#，SharpGL为OpenGl在c#下的一个wrapper封装，主要作用是3D环境的渲染，纯显示点云。
+      界面框架使用c#，SharpGL为OpenGl在c#下的一个wrapper封装，主要作用是3D环境的渲染，纯显示点云。
 
 2. 环境依赖配置
 
