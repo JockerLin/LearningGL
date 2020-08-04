@@ -73,14 +73,14 @@ namespace demo11
             eyex = radius * Math.Cos(ry) * Math.Cos(rx);
             eyey = radius * Math.Cos(ry) * Math.Sin(rx);
             eyez = radius * Math.Sin(ry);
-            centerx = radius * Math.Cos(cy) * Math.Cos(cx);
-            centery = radius * Math.Cos(cy) * Math.Sin(cx);
-            centerz = radius * Math.Sin(cy);
+            //centerx = radius * Math.Cos(cy) * Math.Cos(cx);
+            //centery = radius * Math.Cos(cy) * Math.Sin(cx);
+            //centerz = radius * Math.Sin(cy);
             Console.WriteLine("eye xyz: " + eyex + "," + eyey + "," + eyez + ",");
             gl.LookAt(eyex, eyey, eyez, 0, 0, 0, 0, 0, upz);
             gl.Translate(nx, ny, nz);
             // 右键移动视野待完善
-            //gl.Translate(centerx, centery, centerz);
+            gl.Translate(centerx, centery, centerz);
             gl.Scale(scaleN, scaleN, scaleN);
             drawGrid(ref gl);
             gl.CallList(glList);
