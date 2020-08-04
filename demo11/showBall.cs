@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using SharpGL;
 
 //显示栅格球体
-namespace demo11
+namespace ShowBall
 {
     public partial class Form1 : Form
     {
